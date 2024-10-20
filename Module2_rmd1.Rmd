@@ -127,3 +127,28 @@ $$
 Y = \beta_0 + \beta_1x
 $$
 
+## Insert Images
+
+Here is an image 
+
+![sunstar](sunstar.png)
+
+And here is the R logo
+
+![r logo](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg)
+
+
+## Insert an animated gif and a video
+
+![sunstar gif](subfolder/sunstar.gif)
+
+![sunstar mp4](subfolder/sunstar.mp4)
+
+## Insert text with some footnotes
+
+Here is a footnote reference [^1] and a longer one [^longnote]
+
+And here is an inline reference ^[Your mum, theese are easier as you dont have to remember blah]
+
+[^1]: here is the footnote
+[^longnote]: and here is one with multiple blocks
